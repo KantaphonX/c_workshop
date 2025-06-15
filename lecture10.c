@@ -14,7 +14,7 @@ int main(){
 
     printf("Input yy value :");
     yy = getch();
-    putchar (yy);
+    putchar(yy);
 
     printf("\n----------------\n");
 
