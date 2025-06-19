@@ -18,7 +18,7 @@ void main() {
         printf("Grade C");
     } else if (score >= 50) {
         printf("Grade D");
-    } else {
+    } else { // else สุดท้ายสามารถมี if ได้
         printf("Grade F");
         printf("T-T");
     }
